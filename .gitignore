@@ -1,0 +1,6 @@
+.idea
+ABG_CaseStudy
+travel_etl/mysql-connector-j-8.0.32.jar
+travel_etl/.env
+travel_etl/__pycache__
+travel_etl/functions/__pycache__
